@@ -248,6 +248,7 @@ div {
 .sidebar-left .entry-3 {
 	width: 100%;
 	height: 200px;
+
 	background-image: url("../image/bg-3.jpg");
 	margin-top:10px;
 }
